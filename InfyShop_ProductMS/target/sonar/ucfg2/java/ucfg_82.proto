@@ -1,0 +1,65 @@
+
+ïcom.project.InfyShop.dto.SubscribedproductDTO#valueOf(Lcom/project/InfyShop/entity/Subscribedproduct;)Lcom/project/InfyShop/dto/SubscribedproductDTO;
+uC:/Users/derek/git/productmsfinal/InfyShop_ProductMS/src/main/java/com/project/InfyShop/dto/SubscribedproductDTO.java3% 3(,"1*œ
+1
+uC:/Users/derek/git/productmsfinal/InfyShop_ProductMS/src/main/java/com/project/InfyShop/dto/SubscribedproductDTO.java4/ 4(IËÂ
+
+uC:/Users/derek/git/productmsfinal/InfyShop_ProductMS/src/main/java/com/project/InfyShop/dto/SubscribedproductDTO.java43 4(G3
+%0-com.project.InfyShop.dto.SubscribedproductDTO"-com.project.InfyShop.dto.SubscribedproductDTO˙
+˜
+
+uC:/Users/derek/git/productmsfinal/InfyShop_ProductMS/src/main/java/com/project/InfyShop/dto/SubscribedproductDTO.java4/ 4(I
+%1"7com.project.InfyShop.dto.SubscribedproductDTO#<init>()V*5
+3
+%0-com.project.InfyShop.dto.SubscribedproductDTOà
+Ö
+
+uC:/Users/derek/git/productmsfinal/InfyShop_ProductMS/src/main/java/com/project/InfyShop/dto/SubscribedproductDTO.java4 4(JE
+subscribedproductDTO-com.project.InfyShop.dto.SubscribedproductDTO"__id*5
+3
+%0-com.project.InfyShop.dto.SubscribedproductDTO†ù
+
+uC:/Users/derek/git/productmsfinal/InfyShop_ProductMS/src/main/java/com/project/InfyShop/dto/SubscribedproductDTO.java5# 5(A	
+%2int";com.project.InfyShop.entity.Subscribedproduct#getBuyerid()I*D
+B
+subscribedproduct-com.project.InfyShop.entity.Subscribedproduct2getBuyerid()≥∞
+
+uC:/Users/derek/git/productmsfinal/InfyShop_ProductMS/src/main/java/com/project/InfyShop/dto/SubscribedproductDTO.java5 5(B
+
+%3void"<com.project.InfyShop.dto.SubscribedproductDTO#setBuyerid(I)V*G
+E
+subscribedproductDTO-com.project.InfyShop.dto.SubscribedproductDTO*
+	
+%2int2setBuyerid(I)ûõ
+
+uC:/Users/derek/git/productmsfinal/InfyShop_ProductMS/src/main/java/com/project/InfyShop/dto/SubscribedproductDTO.java6" 6(?	
+%4int":com.project.InfyShop.entity.Subscribedproduct#getProdid()I*D
+B
+subscribedproduct-com.project.InfyShop.entity.Subscribedproduct2getProdid()±Æ
+
+uC:/Users/derek/git/productmsfinal/InfyShop_ProductMS/src/main/java/com/project/InfyShop/dto/SubscribedproductDTO.java6 6(@
+
+%5void";com.project.InfyShop.dto.SubscribedproductDTO#setProdid(I)V*G
+E
+subscribedproductDTO-com.project.InfyShop.dto.SubscribedproductDTO*
+	
+%4int2setProdid(I)¢ü
+
+uC:/Users/derek/git/productmsfinal/InfyShop_ProductMS/src/main/java/com/project/InfyShop/dto/SubscribedproductDTO.java7$ 7(C	
+%6int"<com.project.InfyShop.entity.Subscribedproduct#getQuantity()I*D
+B
+subscribedproduct-com.project.InfyShop.entity.Subscribedproduct2getQuantity()µ≤
+
+uC:/Users/derek/git/productmsfinal/InfyShop_ProductMS/src/main/java/com/project/InfyShop/dto/SubscribedproductDTO.java7 7(D
+
+%7void"=com.project.InfyShop.dto.SubscribedproductDTO#setQuantity(I)V*G
+E
+subscribedproductDTO-com.project.InfyShop.dto.SubscribedproductDTO*
+	
+%6int2setQuantity(I)" 
+
+uC:/Users/derek/git/productmsfinal/InfyShop_ProductMS/src/main/java/com/project/InfyShop/dto/SubscribedproductDTO.java8 8(G
+E
+subscribedproductDTO-com.project.InfyShop.dto.SubscribedproductDTO:B
+subscribedproduct-com.project.InfyShop.entity.SubscribedproductB1"/
+-com.project.InfyShop.dto.SubscribedproductDTO
