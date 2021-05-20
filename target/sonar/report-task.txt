@@ -1,0 +1,7 @@
+organization=derekdavid
+projectKey=derekdavid_productfinal
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.20206
+dashboardUrl=https://sonarcloud.io/dashboard?id=derekdavid_productfinal
+ceTaskId=AXmIYjIyPN3Q7N3oPmnH
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXmIYjIyPN3Q7N3oPmnH
